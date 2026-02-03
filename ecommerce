@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit - full stack ecommerce website"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/ecommerce-website.git
+git push -u origin main
